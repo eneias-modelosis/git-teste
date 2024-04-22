@@ -2,6 +2,10 @@
 
 Principais comandos:
 
+``git config --global user.name "João Silva"``
+
+``git config --global user.email "exemplo@seuemail.com.br"``
+
 ``git init``
 
 ``git add .``   (ou os nomes dos arquivos que deseja adicionar)
