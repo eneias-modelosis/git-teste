@@ -1,3 +1,5 @@
+GIT
+
 O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. 
 
 Muitos dos comandos citados aqui recebem diversos parâmetros e podem ser usados de diversas formas. 
