@@ -1,0 +1,9 @@
+O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. 
+
+Muitos dos comandos citados aqui recebem diversos parâmetros e podem ser usados de diversas formas. 
+
+Este tutorial mostrou apenas o básico para que o leitor seja capaz, a partir do zero, 
+de criar um repositório local e remoto. 
+
+O Git disponibiliza um livro gratuito traduzido em Português do Brasil o qual explica de forma fácil e
+didática como usar essa fantástica ferramenta.
