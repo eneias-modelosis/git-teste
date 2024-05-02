@@ -10,6 +10,7 @@ git commit –m “coloque sua mensagem aqui”
 
 git status
 
+teste filipe
 
 git push origin master
 
