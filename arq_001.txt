@@ -4,6 +4,12 @@ linha alterada
 NOVO -  teste
 
 O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. escrito pelo Mauricio 
+outro teste - conflito
+GIT-TESTE - filipe
+NOVO -  teste
+
+
+O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. bota complexidade.
 
 Muitos dos comandos citados aqui recebem diversos parâmetros e podem ser usados de diversas formas. 
 
