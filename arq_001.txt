@@ -1,6 +1,6 @@
 outro teste
 GIT-TESTE
-linha alterada
+linha alterada pelo gabriel
 NOVO -  teste
 
 O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. escrito pelo Mauricio 
@@ -14,7 +14,7 @@ O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua
 Muitos dos comandos citados aqui recebem diversos parâmetros e podem ser usados de diversas formas. 
 
 Este tutorial mostrou apenas o básico para que o leitor seja capaz, a partir do zero, 
-de criar um repositório local e remoto. 
+de criar um repositório local e remoto. do gabriel
 
 O Git disponibiliza um livro gratuito traduzido em Português do Brasil o qual explica de forma fácil e
 didática como usar essa fantástica ferramenta.
