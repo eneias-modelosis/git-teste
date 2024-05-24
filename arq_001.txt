@@ -1,8 +1,8 @@
 outro teste
-GIT - mais um teste
-GIT -  teste
+linha alterada
+NOVO -  teste
 
-O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. 
+O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. escrito pelo Mauricio 
 
 Muitos dos comandos citados aqui recebem diversos parâmetros e podem ser usados de diversas formas. 
 
