@@ -4,7 +4,7 @@ linha alterada pelo filipe
 linha alterada pelo gabriel
 NOVO -  teste
 
-O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade. escrito pelo Mauricio 
+O Git é uma ferramenta muito flexível e poderosa porém o custo disso é a sua complexidade
 outro teste - conflito
 GIT-TESTE - filipe
 NOVO -  teste
